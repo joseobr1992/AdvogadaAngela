@@ -1,8 +1,8 @@
-\# Projeto de Extensão Faculdade Descomplica
+# Projeto de Extensão Faculdade Descomplica
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,29 +10,29 @@ Neste projeto foi identificado a necessidade de uma página de divulgação prof
 
 
 
-\## Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 
 
-\* HTML
+* HTML
 
-\* CSS
+* CSS
 
-\* Bootstrap
+* Bootstrap
 
-\* Fontawesome
-
-
-
-\## Links
+* Fontawesome
 
 
 
-1\. Repositório: https://github.com/joseobr1992/AdvogadaAngela
+## Links
 
-2\. Site: https://advogada-angela.netlify.app/
 
-3\. Instagram: https://www.instagram.com/angelacouto.adv/
+
+1. Repositório: https://github.com/joseobr1992/AdvogadaAngela
+
+2. Site: https://advogada-angela.netlify.app/
+
+3. Instagram: https://www.instagram.com/angelacouto.adv/
 
 
 
