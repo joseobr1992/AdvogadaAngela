@@ -34,6 +34,8 @@ Neste projeto foi identificado a necessidade de uma página de divulgação prof
 
 3. Instagram: https://www.instagram.com/angelacouto.adv/
 
+4. Linkedin: https://www.linkedin.com/in/angela-helena-2843951a3/
+
 
 
 
